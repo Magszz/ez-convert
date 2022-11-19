@@ -1,0 +1,15 @@
+.Form__input > label > input {
+  display: none;
+}
+
+.Form__btn {
+  width: 30px;
+  height: 30px;
+  color: #4582ec;
+  cursor: pointer;
+}
+
+.Form__btn:hover {
+  color: white;
+  background-color: #4582ec;
+}
